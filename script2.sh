@@ -1,6 +1,6 @@
 #!/bin/bash
 # Script 2: FOSS Package Inspector
-# Author: Budhwani Gaurav Pratap | Course: Open Source Software
+# Author: Aryan Patel | Course: Open Source Software
 # Purpose: Checks if Python is installed, shows its details,
 #          and prints a philosophy note using a case statement
 
