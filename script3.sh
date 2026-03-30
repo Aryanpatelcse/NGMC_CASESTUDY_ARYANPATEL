@@ -1,6 +1,6 @@
 #!/bin/bash
 # Script 3: Disk and Permission Auditor
-# Author: Initial commit | Course: Open Source Software
+# Author: Aryan Patel | Course: Open Source Software
 # Purpose: Loops through key system directories and reports
 #          their size, owner, and permissions using a for loop
 
