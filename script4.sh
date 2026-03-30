@@ -1,6 +1,6 @@
 #!/bin/bash
 # Script 4: Log File Analyzer
-# Author: Budhwani Gaurav Pratap | Course: Open Source Software
+# Author: Aryan Patel | Course: Open Source Software
 # Purpose: Reads a log file line by line, counts occurrences
 #          of a keyword, and prints matching lines
 
