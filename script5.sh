@@ -1,6 +1,6 @@
 #!/bin/bash
 # Script 5: Open Source Manifesto Generator
-# Author: Initial commit | Course: Open Source Software
+# Author: Aryan Patel | Course: Open Source Software
 # Purpose: Asks the user 3 questions interactively and generates
 #          a personalised open source philosophy statement,
 #          then saves it to a .txt file
