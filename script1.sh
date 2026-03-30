@@ -6,7 +6,7 @@
 # Purpose: Displays system information as a welcome screen
 
 # --- Variables ---
-STUDENT_NAME="Budhwani Gaurav"
+STUDENT_NAME="Aryan Patel"
 SOFTWARE_CHOICE="Python"
 
 # --- Collect system information using command substitution ---
