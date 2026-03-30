@@ -13,7 +13,7 @@
 
 | 👤 Author | 🎓 University | 📋 Course | 🆔 Roll Number |
 |-----------|--------------|-----------|----------------|
-| Budhwani Gaurav Pratap | VIT Bhopal University | Open Source Software | 24MIP10087 |
+| Aryan Patel | VIT Bhopal University | Open Source Software | 24BAI10380 |
 
 </div>
 
