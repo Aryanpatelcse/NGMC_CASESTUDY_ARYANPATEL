@@ -87,7 +87,7 @@ bash script2.sh
 ### Script 3 — Disk and Permission Auditor
 ![Concepts](https://img.shields.io/badge/Concepts-for%20loop%20|%20ls%20|%20du%20|%20awk-blue?style=flat-square)
 
-Loops through a list of critical system directories (`/etc`, `/var/log`, `/home`, `/usr/bin`, `/tmp`) using a `for` loop and reports each directory's size, permissions, owner, and group. Also performs a dedicated check on Python's library directory.
+Loops through a list of critical system directories (`/etc`, `/var/log`, `/home`, `/usr/bin`, `/tmp`) using a `for` loop and reports each directory's size , permissions, owner, and group. Also performs a dedicated check on Python's library directory.
 
 ```bash
 bash script3.sh
