@@ -140,10 +140,10 @@ bash script5.sh
 
 ```bash
 # Step 1: Clone the repository
-git clone https://github.com/Gauravbudhwani/oss-audit-24MIP10087.git
+git clonehttps://github.com/Aryanpatelcse/NGMC_CASESTUDY_ARYANPATEL.git
 
 # Step 2: Move into the project folder
-cd oss-audit-24MIP10087
+cd oss-audit-24BAI10380
 
 # Step 3: Give execute permissions to all scripts
 chmod +x *.sh
@@ -199,6 +199,6 @@ The report covers:
 ---
 
 Made with 🐍 and open source spirit  
-**Budhwani Gaurav Pratap** | VIT Bhopal University | 2026
+**Aryan Patel** | VIT Bhopal University | 2026
 
 </div>
